@@ -11,7 +11,7 @@
 
 | View | Preview |
 |------|---------|
-| Paint App with Tools | ![Paint App](Paint_App.png) |
+| Paint App with Tools | ![Paint App](Paint%20App.png) |
 
 ---
 
