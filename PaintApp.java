@@ -59,6 +59,7 @@ class CanvasPanel extends JPanel {
         });
     }
 
+    
     protected void paintComponent(Graphics g) {
         if (canvas == null) {
             canvas = new BufferedImage(getWidth(), getHeight(), BufferedImage.TYPE_INT_RGB);
